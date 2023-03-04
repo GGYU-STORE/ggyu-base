@@ -1,4 +1,4 @@
-package com.ggyu.base.test;
+package com.ggyu.base.domain.test;
 
 import jakarta.persistence.Entity;
 import jakarta.persistence.GeneratedValue;

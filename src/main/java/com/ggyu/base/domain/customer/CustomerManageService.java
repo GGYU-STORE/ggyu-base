@@ -1,4 +1,4 @@
-package com.ggyu.base.customer;
+package com.ggyu.base.domain.customer;
 
 import org.springframework.stereotype.Service;
 
